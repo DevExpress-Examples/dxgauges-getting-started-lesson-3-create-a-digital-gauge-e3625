@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DigitalGauge", "DigitalGauge\DigitalGauge.vbproj", "{E9A5A460-9F45-46AA-908C-D694ADCFAD72}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DigitalGauge.Web", "DigitalGauge.Web\DigitalGauge.Web.vbproj", "{09323D60-D726-43CA-854E-E2C3FD2F0891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A5A460-9F45-46AA-908C-D694ADCFAD72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A5A460-9F45-46AA-908C-D694ADCFAD72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A5A460-9F45-46AA-908C-D694ADCFAD72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A5A460-9F45-46AA-908C-D694ADCFAD72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09323D60-D726-43CA-854E-E2C3FD2F0891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09323D60-D726-43CA-854E-E2C3FD2F0891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09323D60-D726-43CA-854E-E2C3FD2F0891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09323D60-D726-43CA-854E-E2C3FD2F0891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
