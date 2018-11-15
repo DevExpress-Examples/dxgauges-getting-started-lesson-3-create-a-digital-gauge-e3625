@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DigitalGauge/MainPage.xaml) (VB: [MainPage.xaml](./VB/DigitalGauge/MainPage.xaml))
+<!-- default file list end -->
 # DXGauges Getting Started - Lesson 3 - Create a Digital Gauge
 
 
